@@ -1,0 +1,39 @@
+{
+  "restaurants": [
+    {
+      "id": "r1",
+      "name": "Quán Cơm Tấm 123",
+      "address": "123 Nguyễn Văn A",
+      "foods": [
+        {
+          "id": "f1",
+          "name": "Cơm tấm sườn bì",
+          "price": 35000,
+          "category": "Cơm",
+          "image": "https://comtamkieugiang.vn/wp-content/uploads/2021/08/cach-lam-com-tam-suon-bi-cha-3-768x454.jpg"
+        },
+        {
+          "id": "f2",
+          "name": "Cơm tấm chả trứng",
+          "price": 30000,
+          "category": "Cơm",
+          "image": "https://comtambason.com/wp-content/uploads/2020/12/Com-cha-2.png"
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "name": "Phở Gà Thống Nhất",
+      "address": "45 Thống Nhất",
+      "foods": [
+        {
+          "id": "f3",
+          "name": "Phở gà ta",
+          "price": 40000,
+          "category": "Phở",
+          "image": "https://i1-giadinh.vnecdn.net/2021/09/11/Phoga1-1631342846-8318-1631342910.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=lGvobJhbawgiJL4uvOjDYw"
+        }
+      ]
+    }
+  ]
+}
